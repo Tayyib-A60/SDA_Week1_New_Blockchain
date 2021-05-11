@@ -6,7 +6,7 @@ A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacki
 
 ## Getting Started
 
-Follow the steps below to get started with the Node Template, or get it up and running right from your browser 
+Follow the steps below to get started with the Node Template, or get it up and running right from your browser
 in just a few clicks using [Playground](https://playground.substrate.dev/) :hammer_and_wrench:
 
 ### Using Nix
@@ -191,3 +191,7 @@ by appending your own. A few useful ones are as follow.
 # Check whether the code is compilable
 ./scripts/docker_run.sh cargo check
 ```
+
+### Test Transaction Snapshot
+![Test Transaction](https://github.com/Tayyib-A60/SDA_Week1_New_Blockchain/blob/master/Token_Transfer.JPG)
+
